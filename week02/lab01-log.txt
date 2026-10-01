@@ -1,0 +1,16 @@
+  300  ls
+  301  ls -a
+  302  source .venv/bin/activate
+  303  which python3
+  304  pip list
+  305  pip install requests
+  306  pip list
+  307  cd
+  308  deactivate
+  309  which python3
+  310  man ls
+  311  ls -h
+  312  man man
+  313  cd coding-cafe/README.md
+  314  python3
+  315  cd ~ coding-cafe
